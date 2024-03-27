@@ -1,1 +1,1 @@
-O desafio pediu para que criasse uma tabela de preços.
+O desafio pedia para que criasse uma tabela de preços.
