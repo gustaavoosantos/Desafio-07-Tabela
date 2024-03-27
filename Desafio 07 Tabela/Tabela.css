@@ -1,4 +1,5 @@
 body {
+    font-family: "Libre Baskerville", serif;
     height: 100ch;
     background-position: center;
     display: flex;
@@ -11,7 +12,7 @@ table,td,tr {
     background-color: #ffffff;
     text-align: center;
     font-weight: bolder;
-    border: #2f3f14 solid 2px;
+    border: #1c432d solid 2px;
     border-collapse: collapse;
 }
 
